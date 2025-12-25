@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+/uploads/
+/qdrant_storage/
+chat_history.json
+
+# Node modules (if needed)
+/node_modules
+
+# OS
+.DS_Store
+Thumbs.db
