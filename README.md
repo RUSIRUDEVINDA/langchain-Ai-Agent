@@ -1,4 +1,4 @@
-# How to Run the Bank Statement Analyzer
+# Bank Statement & Invoice Analyzer
 
 This application consists of three parts that need to be running simultaneously:
 
